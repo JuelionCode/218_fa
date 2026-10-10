@@ -1,0 +1,12 @@
+cmake-build-*/
+.idea/
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+.DS_Store
+Thumbs.db
